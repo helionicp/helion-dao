@@ -1,0 +1,3 @@
+[submodule "helion-dao-backend"]
+	path = helion-dao-backend
+	url = https://github.com/helionicp/helion-dao
