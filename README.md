@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a full implementation of the ICRC-1 fungible token standard for the Helion AIDAO.
+This is a full implementation of the ICRC-1 fungible token standard for the Helion AI DAO.
 
 ## Getting Started 
 
